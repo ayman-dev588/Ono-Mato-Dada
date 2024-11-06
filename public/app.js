@@ -20,7 +20,7 @@ var width = 2400,
     maxLength2 = maxLength * maxLength;
 
 
-var sliderValue = Math.random() * 2 | 0.1;    
+var sliderValue = Math.random() * 20 | 0.1;    
 
 //declare container for slider
 const container = document.getElementById('sliderContainer');
@@ -275,7 +275,7 @@ function ticked(obj) {
     }
   }
 
-  context.lineWidth = 0.1;
+  context.lineWidth = 0.01 * sliderValue;
 context.strokeStyle = `rgba(${myRed},${myGreen},${myBlue},${myAlpha})`;
 context.stroke();
 
@@ -286,8 +286,8 @@ context.stroke();
     context.arc(node.x, node.y, circleSize, 0, τ);
   }
   context.lineWidth = sliderValue * 0.1;
-  context.strokeStyle = `rgb(${obj.r},${obj.g},${obj.b})`;
+  context.strokeStyle = `rgba(${obj.r},${obj.g},${obj.b},0.3)`;
   context.stroke();
-  context.fillStyle = `rgb(${obj.r},${obj.g},${obj.b})`;
+  context.fillStyle = `rgba(${obj.r},${obj.g},${obj.b},0.3)`;
   context.fill();
 }
