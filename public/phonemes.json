@@ -1,0 +1,339 @@
+[
+    {
+        "id": "phoneme1",
+        "label": "/ə/",
+        "file": "schwa-what.mp3",
+        "sampleword": "what"
+    },
+    {
+        "id": "phoneme2",
+        "label": "/ă/",
+        "file": "a-cake.mp3",
+        "sampleword": "apple"
+    },
+    {
+        "id": "phoneme3",
+        "label": "/ā/",
+        "file": "a-apple.mp3", 
+        "sampleword": "cake"
+    },
+    {
+        "id": "phoneme4",
+        "label": "/air/",
+        "file": "air-pair-share.mp3", 
+        "sampleword": "pair, share"
+    },
+    {
+        "id": "phoneme5",
+        "label": "/ar/",
+        "file": "ar-jar.mp3", 
+        "sampleword": "are, ar"
+    },
+    {
+        "id": "phoneme6",
+        "label": "/aw/",
+        "file": "aw-haul-hawk-ball.mp3", 
+        "sampleword": "haul, hawk, ball"
+    },
+    {
+        "id": "phoneme7",
+        "label": "/b/",
+        "file": "b-bat.mp3", 
+        "sampleword": "bat"
+    },
+    {
+        "id": "phoneme8",
+        "label": "/k/",
+        "file": "c-cut.mp3", 
+        "sampleword": "cut"
+    },
+    {
+        "id": "phoneme9",
+        "label": "/s/",
+        "file": "s-cent-circus-cycle.mp3", 
+        "sampleword": "cent, circus, cycle"
+    },
+    {
+        "id": "phoneme10",
+        "label": "/ch/",
+        "file": "ch-chick.mp3", 
+        "sampleword": "chick"
+    },
+    {
+        "id": "phoneme11",
+        "label": "/d/",
+        "file": "d-dip.mp3", 
+        "sampleword": "dip"
+    },
+    {
+        "id": "phoneme12",
+        "label": "/ĕ/",
+        "file": "e-elephant.mp3", 
+        "sampleword": "elephant"
+    },
+    {
+        "id": "phoneme13",
+        "label": "/ē/",
+        "file": "e-team.mp3", 
+        "sampleword": "team"
+    },
+    {
+        "id": "phoneme14",
+        "label": "/ear/",
+        "file": "ear-hear.mp3", 
+        "sampleword": "hear"
+    },
+    {
+        "id": "phoneme15",
+        "label": "/er/",
+        "file": "er-herd-bird-turn.mp3", 
+        "sampleword": "herd, bird, turn"
+    },
+    {
+        "id": "phoneme16",
+        "label": "/f/",
+        "file": "f-fun.mp3", 
+        "sampleword": "fun"
+    },
+    {
+        "id": "phoneme17",
+        "label": "/g/",
+        "file": "g-get.mp3", 
+        "sampleword": "get"
+    },
+    {
+        "id": "phoneme18",
+        "label": "/j/",
+        "file": "j-gem-giant-gym.mp3", 
+        "sampleword": "gem, giant, gym"
+    },
+    {
+        "id": "phoneme19",
+        "label": "/n/",
+        "file": "n-gnome.mp3", 
+        "sampleword": "gnome"
+    },
+    {
+        "id": "phoneme20",
+        "label": "/h/",
+        "file": "h-hat.mp3", 
+        "sampleword": "hat"
+    },
+    {
+        "id": "phoneme21",
+        "label": "/i/",
+        "file": "i-igloo.mp3", 
+        "sampleword": "igloo"
+    },
+    {
+        "id": "phoneme22",
+        "label": "/ī/",
+        "file": "i-kite.mp3", 
+        "sampleword": "kite"
+    },
+    {
+        "id": "phoneme23",
+        "label": "/j/",
+        "file": "j-jog.mp3", 
+        "sampleword": "jog"
+    },
+    {
+        "id": "phoneme24",
+        "label": "/k/",
+        "file": "k-kit.mp3", 
+        "sampleword": "kit"
+    },
+    {
+        "id": "phoneme25",
+        "label": "/kn/",
+        "file": "n-knife.mp3", 
+        "sampleword": "knife"
+    },
+    {
+        "id": "phoneme26",
+        "label": "/l/",
+        "file": "l-lip.mp3", 
+        "sampleword": "lip"
+    },
+    {
+        "id": "phoneme27",
+        "label": "/m/",
+        "file": "m-mug.mp3", 
+        "sampleword": "mug"
+    },
+    {
+        "id": "phoneme28",
+        "label": "/n/",
+        "file": "n-nap.mp3", 
+        "sampleword": "nap"
+    },
+    {
+        "id": "phoneme29",
+        "label": "/ŋ/",
+        "file": "ng-ring.mp3", 
+        "sampleword": "ring"
+    },
+    {
+        "id": "phoneme30",
+        "label": "/ŏ/",
+        "file": "o-octopus.mp3", 
+        "sampleword": "octopus"
+    },
+    {
+        "id": "phoneme31",
+        "label": "/oo/",
+        "file": "oo-book-bush.mp3", 
+        "sampleword": "book, bush"
+    },
+    {
+        "id": "phoneme32",
+        "label": "/oo/",
+        "file": "oo-boot-new.mp3", 
+        "sampleword": "boot, new"
+    },
+    {
+        "id": "phoneme33",
+        "label": "/ō/",
+        "file": "o-rope.mp3", 
+        "sampleword": "rope"
+    },
+    {
+        "id": "phoneme34",
+        "label": "/oi/",
+        "file": "oi-soil-toy.mp3", 
+        "sampleword": "soil, toy"
+    },
+    {
+        "id": "phoneme35",
+        "label": "/or/",
+        "file": "or-fork.mp3", 
+        "sampleword": "fork"
+    },
+    {
+        "id": "phoneme36",
+        "label": "/ou/",
+        "file": "ou-how-out.mp3", 
+        "sampleword": "how, out"
+    },
+    {
+        "id": "phoneme37",
+        "label": "/p/",
+        "file": "p-pick.mp3", 
+        "sampleword": "pick"
+    },
+    {
+        "id": "phoneme38",
+        "label": "/qu/",
+        "file": "qu-quest.mp3", 
+        "sampleword": "quest"
+    },
+    {
+        "id": "phoneme39",
+        "label": "/r/",
+        "file": "r-rid.mp3", 
+        "sampleword": "rid"
+    },
+    {
+        "id": "phoneme40",
+        "label": "/s/",
+        "file": "s-sit-mess.mp3", 
+        "sampleword": "sit, mess"
+    },
+    {
+        "id": "phoneme41",
+        "label": "/z/",
+        "file": "s-his.mp3", 
+        "sampleword": "his"
+    },
+    {
+        "id": "phoneme42",
+        "label": "/sh/",
+        "file": "sh-ship.mp3", 
+        "sampleword": "ship"
+    },
+    {
+        "id": "phoneme43",
+        "label": "/t/",
+        "file": "t-tuck.mp3", 
+        "sampleword": "tuck"
+    },
+    {
+        "id": "phoneme44",
+        "label": "/th/",
+        "file": "th-thin.mp3", 
+        "sampleword": "thin"
+    },
+    {
+        "id": "phoneme45",
+        "label": "/th/",
+        "file": "th-the.mp3", 
+        "sampleword": "the"
+    },
+    {
+        "id": "phoneme46",
+        "label": "/ŭ/",
+        "file": "u-up.mp3", 
+        "sampleword": "up"
+    },
+    {
+        "id": "phoneme47",
+        "label": "/oo/",
+        "file": "u-lute-glue.mp3", 
+        "sampleword": "lute, glute"
+    },
+    {
+        "id": "phoneme48",
+        "label": "/yoo/",
+        "file": "u-use-cue.mp3", 
+        "sampleword": "use, cue"
+    },
+    {
+        "id": "phoneme49",
+        "label": "/ure/",
+        "file": "ure-lure.mp3", 
+        "sampleword": "lure"
+    },
+    {
+        "id": "phoneme50",
+        "label": "/v/",
+        "file": "v-van.mp3", 
+        "sampleword": "van"
+    },
+    {
+        "id": "phoneme51",
+        "label": "/w/",
+        "file": "will.mp3", 
+        "sampleword": "will"
+    },
+    {
+        "id": "phoneme52",
+        "label": "/hw/",
+        "file": "hw-whip.mp3", 
+        "sampleword": "whip"
+    },
+    {
+        "id": "phoneme53",
+        "label": "/r/",
+        "file": "wr-wrist.mp3", 
+        "sampleword": "wrist"
+    },
+    {
+        "id": "phoneme54",
+        "label": "/ks/",
+        "file": "x-mix-rocks.mp3", 
+        "sampleword": "mix, rocks"
+    },
+    {
+        "id": "phoneme55",
+        "label": "/y/",
+        "file": "y-yes.mp3", 
+        "sampleword": "yes"
+    },
+    {
+        "id": "phoneme56",
+        "label": "/z/",
+        "file": "zip, buzz.mp3", 
+        "sampleword": "zip, buzz"
+    }
+]
+

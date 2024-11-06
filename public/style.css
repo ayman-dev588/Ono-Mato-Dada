@@ -1,0 +1,77 @@
+
+body {
+    background: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+canvas {
+    max-width: 1100px;
+    position: fixed;
+    top: 50%;
+             left: 50%;
+             transform: translate(-50%, -50%);
+    z-index: -1;
+    }
+
+/*STYLE FOR PHONEMES AND SLIDERS*/
+
+/* Basic styling for the phoneme slider container */
+#sliderContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: lef;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+/* Style each phoneme's wrapper */
+.slider-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    width: 200px;
+    padding: 10px;
+    border-bottom: 1px solid #595959;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* Style for labels and sample word */
+.phoneme-label {
+    font-size: 0.8em;
+    font-weight: bold;
+    text-align: left;
+    color: #ddd;
+}
+
+.sample-word {
+    font-size: 0.8em;
+    color: #555;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+/* #instructions{
+    color:white;
+    width: 200px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -100px;
+    margin-top: -100px;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+#instructions button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 12px;
+}
+
+#instructions button:hover{
+    background-color: rgb(30, 30, 30);
+} */
