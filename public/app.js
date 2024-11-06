@@ -9,8 +9,11 @@ let myRed = Math.random() * 256 | 0;
 let myGreen = Math.random() * 256 | 0;
 let myBlue = Math.random() * 256 | 0;
 let myAlpha = Math.random() * 256 | 0;
-let range = Math.random() * 900 | 700;
-let charge = -140;
+let range = Math.random() * (900 - 700) + 700;
+
+let charge = Math.random() * (-70 - -160) + -160;
+
+
 
 var width = 2400,
     circleSize,	
